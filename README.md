@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/BaiaGui/BaiaGui/blob/main/banner.png?raw=true"  />
+  <img height="200" src="https://github.com/BaiaGui/BaiaGui/blob/main/header.png?raw=true"  />
 </div>
 
 ###
